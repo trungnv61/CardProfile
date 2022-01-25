@@ -195,3 +195,9 @@ body {
   opacity: 1;
   pointer-events: auto;
 }
+
+@media only screen and (max-width: 500px) {
+  .wrapper {
+    font-size: 40px;
+  }
+}
